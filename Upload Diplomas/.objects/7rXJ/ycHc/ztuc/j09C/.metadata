@@ -1,0 +1,14 @@
+﻿{
+  "Id": "j09CWn0qoEG_95ErJBaLqg",
+  "Reference": "hlsPOFBKqECVrR_eux5ktg/j09CWn0qoEG_95ErJBaLqg",
+  "ParentRef": "hlsPOFBKqECVrR_eux5ktg/ztuchCfZPkCATDA4RIVRLQ",
+  "Name": "Inicio",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-01-24T21:51:53.5321454Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-24T21:51:53.5321454Z"
+}

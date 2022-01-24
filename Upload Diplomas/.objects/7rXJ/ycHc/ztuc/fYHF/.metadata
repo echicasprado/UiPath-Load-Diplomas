@@ -1,0 +1,14 @@
+﻿{
+  "Id": "fYHFye6s30mFskpsSqcJEQ",
+  "Reference": "hlsPOFBKqECVrR_eux5ktg/fYHFye6s30mFskpsSqcJEQ",
+  "ParentRef": "hlsPOFBKqECVrR_eux5ktg/ztuchCfZPkCATDA4RIVRLQ",
+  "Name": "Crear publicación",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-01-24T20:34:05.7355617Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-24T20:34:05.7355617Z"
+}

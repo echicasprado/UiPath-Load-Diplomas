@@ -1,0 +1,14 @@
+﻿{
+  "Id": "2NzUtfF6iUKDrJLixmO8NA",
+  "Reference": "hlsPOFBKqECVrR_eux5ktg/2NzUtfF6iUKDrJLixmO8NA",
+  "ParentRef": "hlsPOFBKqECVrR_eux5ktg/ztuchCfZPkCATDA4RIVRLQ",
+  "Name": "Seleccionar archivo",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-01-24T20:57:03.2855662Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-24T20:57:03.2855662Z"
+}

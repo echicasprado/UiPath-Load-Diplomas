@@ -1,0 +1,12 @@
+﻿{
+  "Id": "7rXJLgc2E0Cdyxp-aCKLGg",
+  "Reference": "hlsPOFBKqECVrR_eux5ktg/7rXJLgc2E0Cdyxp-aCKLGg",
+  "Name": "Chrome: Feed | LinkedIn",
+  "Type": "App",
+  "Created": "2022-01-24T20:34:01.6054939Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-24T20:34:01.6054939Z"
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://www.linkedin.com/feed/" ContentHash="_xv44rGw3kiiFo0m9ph9Kw" DesignTimeRectangle="383, 199, 344, 48" ElementType="Button" FriendlyName="'Crear publicación'" FullSelectorArgument="&lt;webctrl id='ember417' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl id='ember417' tag='BUTTON' type='' aaname='      Crear publicación ' check:text='Crear publicación' /&gt;" Guid="530def2a-ca59-410c-b853-7c02d61a667a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Feed | LinkedIn' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="327, 199, 48, 48" ElementType="Icon" FriendlyName="'IMG ember416'" FullSelectorArgument="&lt;webctrl id='ember416' tag='IMG' /&gt;" FuzzySelectorArgument="&lt;webctrl id='ember416' tag='IMG' type='' aaname='Ver el perfil de Ever Chicas' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">3v1p1R4M4MEOu2UZdZP0mrQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">02TS-40AfA0uxEB7KWWWGRQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="c4c57b94abe061df7e2382d5c21dac3e.png" xmlns="">02CCxXGlSO06Yuc6Yxn8_yA</imageRef>
+</TargetAnchorable>

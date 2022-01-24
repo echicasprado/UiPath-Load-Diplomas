@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="gI8ulc8zN0KVDeTY2cg-5Q" Selector="&lt;html app='chrome.exe' title='Feed | LinkedIn'/&gt;" Url="https://www.linkedin.com/feed/" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0W0pnbjwlIU2tC9mt4PY6GA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="2406ed2c28d2e7751c0d4c3850523316.png" xmlns="">0UZhLYDp17k-UaKluEqLBMg</imageRef>
+</TargetApp>

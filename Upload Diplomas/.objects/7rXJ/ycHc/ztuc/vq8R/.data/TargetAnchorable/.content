@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://www.linkedin.com/feed/" ContentHash="_L7UQ7jQLkOlyjo5vOS-sQ" DesignTimeRectangle="788, 507, 40, 40" FriendlyName="'Añadir un documento'" FullSelectorArgument="&lt;webctrl id='ember382' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='ember382' tag='SPAN' type='' aaname='                                                  ' check:text='Añadir un documento' /&gt;" Guid="4fbe6114-9bbd-40ef-997c-485ac7923d8d" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Feed | LinkedIn' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0eNQuq1d8tk6hJcFuYLqOOw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="cc2a1e0176f0c0dce77ae51305d3c21d.png" xmlns="">0IR23lJbLKUChIKSLQ_N-7g</imageRef>
+</TargetAnchorable>
